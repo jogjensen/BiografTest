@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace BiografTest
 {
     [TestClass]
-    public class UnitTest1
+    public class BiografTests
     {
         [TestMethod]
         public void TestMethod1()
